@@ -1,0 +1,215 @@
+
+@media only screen and (max-width: 1120px) {
+    .h1 {
+        margin-bottom: 215px;
+      }
+}
+@media only screen and (max-width: 1180px) {
+    .h1 {
+        font-size: 50px;
+      }
+}
+@media only screen and (min-width: 1200px) {
+    .h1 {
+        margin-bottom: 215px;
+      }
+}
+@media only screen and (max-width: 1200px) {
+    .h1 {
+        margin-bottom: 215px;
+      }
+}
+
+@media only screen and (max-width: 1060px) {
+    .h1 {
+        margin-bottom: 180px;
+        font-size: 45px;
+      }
+      .carousel {
+        padding-top: 25px;
+      }
+      .gallery {
+        padding-bottom: 50px;
+      }
+      .gallery h1 {
+        padding-top: 30px;
+      }
+}
+@media only screen and (max-width: 1024px) {
+    .h1 {
+        margin-bottom: 170px;
+        font-size: 45px;
+        margin-left: 40px;
+      }
+
+      .commission {
+        top: 5.7%;
+      }
+}
+@media only screen and (max-width: 1000px) {
+    .h1 {
+        margin-bottom: 160px;
+        margin-left: 40px;
+        font-size: 42px;
+      }
+}
+@media only screen and (max-width: 960px) {
+    .h1 {
+        margin-bottom: 150px;
+        font-size: 40px;
+        margin-left: 60px;
+      }
+}
+@media only screen and (max-width: 910px) {
+    .h1 {
+        margin-bottom: 135px;
+        font-size: 40px;
+        margin-left: 60px;
+      }
+}
+
+
+
+@media only screen and (min-width: 1250px) {
+    .h1 {
+        margin-bottom: 230px;
+      }
+}
+@media only screen and (min-width: 1300px) {
+    .h1 {
+        margin-bottom: 245px;
+      }
+}
+@media only screen and (min-width: 1330px) {
+    .h1 {
+        margin-bottom: 250px;
+      }
+}
+@media only screen and (min-width: 1360px) {
+    .h1 {
+        margin-bottom: 260px;
+      }
+}
+@media only screen and (min-width: 1390px) {
+    .h1 {
+        margin-bottom: 275px;
+      }
+}
+@media only screen and (min-width: 1410px) {
+    .h1 {
+        margin-bottom: 280px;
+      }
+}
+@media only screen and (min-width: 1440px) {
+    .h1 {
+        margin-bottom: 290px;
+      }
+}
+@media only screen and (min-width: 1470px) {
+    .h1 {
+        margin-bottom: 300px;
+      }
+}
+@media only screen and (min-width: 1500px) {
+    .h1 {
+        margin-bottom: 308px;
+      }
+}
+@media only screen and (min-width: 1530px) {
+    .h1 {
+        margin-bottom: 315px;
+      }
+}
+@media only screen and (min-width: 1560px) {
+    .h1 {
+        margin-bottom: 320px;
+        font-size: 60px;
+      }
+}
+@media only screen and (min-width: 1590px) {
+    .h1 {
+        margin-bottom: 325px;
+      }
+}
+@media only screen and (min-width: 1620px) {
+    .gallery h1 {
+        font-size: 50px;
+    }
+    .h1 {
+        margin-bottom: 335px;
+      }
+}
+@media only screen and (min-width: 1650px) {
+    .h1 {
+        margin-bottom: 340px;
+        font-size: 65px;
+      }
+}
+@media only screen and (min-width: 1680px) {
+    .h1 {
+        margin-bottom: 350px;
+      }
+}
+@media only screen and (min-width: 1710px) {
+    .h1 {
+        margin-bottom: 360px;
+      }
+}
+@media only screen and (min-width: 1730px) {
+    .h1 {
+        margin-bottom: 365px;
+      }
+}
+@media only screen and (min-width: 1760px) {
+    .h1 {
+        margin-bottom: 370px;
+        font-size: 70px;
+        text-shadow: 3px 3px 3px #3fe1b5;
+      }
+}
+@media only screen and (min-width: 1790px) {
+    .h1 {
+        margin-bottom: 380px;
+      }
+}
+@media only screen and (min-width: 1820px) {
+    .h1 {
+        margin-bottom: 390px;
+      }
+}
+@media only screen and (min-width: 1850px) {
+    .h1 {
+        margin-bottom: 400px;
+        font-size: 75px;
+      }
+      .gallery h1 {
+        font-size: 55px;
+    }
+}
+@media only screen and (min-width: 1880px) {
+    .h1 {
+        margin-bottom: 410px;
+      }
+}
+@media only screen and (min-width: 1910px) {
+    .h1 {
+        margin-bottom: 420px;
+      }
+}
+@media only screen and (min-width: 1940px) {
+    .h1 {
+        margin-bottom: 425px;
+      }
+}
+@media only screen and (min-width: 1970px) {
+    .h1 {
+        margin-bottom: 425px;
+        font-size: 80px;
+      }
+}
+@media only screen and (min-width: 2000px) {
+    .h1 {
+        margin-bottom: 435px;
+        
+      }
+}
